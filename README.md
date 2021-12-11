@@ -9,7 +9,8 @@ This notebook was inspired by [Daniel Bourke's version](https://github.com/mrdbo
 The model will use a window size of 7 (the past one week of bitcoin prices) to predict a horizon of 1 (the future price of bitcoin)
 
 ## N-BEATS architecture
-<p align='center>
+
+<p align='center'>
 <a href="https://github.com/SeanMiranda/BitPredict">
   <img src="img/N-BEATS architecture.PNG" alt="Logo">
 </a>
